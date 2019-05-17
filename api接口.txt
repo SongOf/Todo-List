@@ -1,0 +1,7 @@
+http://localhost:8000/api/v1/	   method=post
+http://localhost:8000/api/v1/id/   method=put
+http://localhost:8000/api/v1/id/   method=patch
+http://localhost:8000/api/v1/	  method=get
+http://localhost:8000/api/v1/getlistbypri/   method=get
+http://localhost:8000/api/v1/getlistbyexdate/   method=get
+http://localhost:8000/api/v1/id/   method=delete

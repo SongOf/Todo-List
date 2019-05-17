@@ -1,0 +1,6 @@
+①Django配置
+TodoListenv虚拟环境workon后，运行命令
+ pip install django==1.8.6
+②Django Rest Framework配置
+TodoListenv虚拟环境workon后，运行命令
+pip install djangorestframework

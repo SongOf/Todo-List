@@ -1,0 +1,15 @@
+①navicat连接mysql
+②新建数据库
+name:TodoDB
+字符集：utf-8
+③配置settings
+DATABASES = {
+    'default': {
+        'ENGINE': 'django.db.backends.mysql',
+        'NAME': 'tododb',
+        'USER':'root',
+        'PASSWORD':'022012',
+        'HOST':'127.0.0.1',
+        'OPTIONS':{'init_command':'SET storage_engine=INNODB;'}
+    }
+}

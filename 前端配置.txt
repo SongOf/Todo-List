@@ -1,0 +1,10 @@
+①安装nodeJS环境：node.JS  v10.15.3
+②利用脚手架工具create-react-app创建react项目：
+执行-npm install -g create-react-app
+在项目目录下执行-create-react-app todolistrect 创建项目todolistrect
+在todolistrect目录下执行-npm start开启调试环境
+调试API=localhost:3000
+③
+-npm install axios --save
+-npm install react-router --save
+-

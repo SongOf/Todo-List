@@ -1,0 +1,4 @@
+①创建虚拟环境
+mkvirtualenv -p=C:\Python27\python2.exe TodoListenv
+②虚拟环境目录
+C:\Users\Administrator\Envs\TodoListenv
